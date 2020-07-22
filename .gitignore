@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/xiangqiboardjs/node_modules
+/xiangqi.js/node_modules
 /.pnp
 .pnp.js
 
