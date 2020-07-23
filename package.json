@@ -13,7 +13,8 @@
     "dist/"
   ],
   "dependencies": {
-    "jquery": "3.5.0"
+    "jquery": "3.5.0",
+    "require": "^2.4.20"
   },
   "devDependencies": {
     "code-prettify": "^0.1.0",
